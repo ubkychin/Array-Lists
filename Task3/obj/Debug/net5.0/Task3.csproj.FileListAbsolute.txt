@@ -1,0 +1,15 @@
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/bin/Debug/net5.0/Task3.deps.json
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/bin/Debug/net5.0/Task3.runtimeconfig.json
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/bin/Debug/net5.0/Task3.runtimeconfig.dev.json
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/bin/Debug/net5.0/Task3.dll
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/bin/Debug/net5.0/ref/Task3.dll
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/bin/Debug/net5.0/Task3.pdb
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.csprojAssemblyReference.cache
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.AssemblyInfoInputs.cache
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.AssemblyInfo.cs
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.csproj.CoreCompileInputs.cache
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.dll
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/ref/Task3.dll
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.pdb
+/Users/agamsingh/Documents/CProjects/Array-Lists/Task3/obj/Debug/net5.0/Task3.genruntimeconfig.cache
