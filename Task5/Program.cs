@@ -20,8 +20,6 @@ namespace Task5
         Console.WriteLine("Good Job");
         
         Word.Reverse();
-
-        Console.WriteLine();
         foreach(string List in Word)
         {
             Console.WriteLine(List);
