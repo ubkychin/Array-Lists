@@ -14,6 +14,9 @@ namespace Task1
             names[2] = Console.ReadLine();
             names[3] = Console.ReadLine();
             names[4] = Console.ReadLine();
+
+
+            
             
         
             // Holy mackeral I made a comment!
